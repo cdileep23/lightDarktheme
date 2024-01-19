@@ -1,0 +1,54 @@
+/* Write your CSS here */
+.Navbar-container-dark {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 20px;
+  height: 10vh;
+  background-color: #333333;
+  align-items: center;
+}
+
+.Navbar-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 20px;
+  height: 10vh;
+  background-color: white;
+  align-items: center;
+}
+.website-icon {
+  width: 60px;
+  height: 60px;
+}
+
+.ul {
+  display: flex;
+  flex-direction: row;
+  width: 200px;
+  justify-content: space-between;
+  list-style-type: none;
+}
+
+.Link-text-dark {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
+
+.Link-text {
+  text-decoration: none;
+  color: #1e293b;
+  font-weight: bold;
+}
+
+.theme-icon {
+  width: 50px;
+  height: 50px;
+}
+
+.btn-toggle {
+  background-color: transparent;
+  border-width: 0px;
+}

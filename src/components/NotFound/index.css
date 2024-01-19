@@ -1,0 +1,44 @@
+/* Write your CSS here */
+/* Write your CSS here */
+.About-container {
+  min-height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.About-container-dark {
+  min-height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  width: 100%;
+}
+
+.about-icon {
+  height: 300px;
+  width: 300px;
+  margin-bottom: 50px;
+}
+.about-heading-dark {
+  color: white;
+  font-weight: bold;
+  font-size: 40px;
+  font-family: 'Roboto';
+}
+
+.about-heading {
+  color: #1e293b;
+  font-weight: bold;
+  font-size: 40px;
+  font-family: 'Roboto';
+}
+
+.para {
+  font-size: 20px;
+  font-weight: 500;
+}
